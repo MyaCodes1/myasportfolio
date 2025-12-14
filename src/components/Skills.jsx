@@ -4,6 +4,7 @@ import python from '/python.svg';
 import html from '/html.svg';
 import css from '/css.svg';
 import react from '/react.svg';
+import javascript from '/javascript.svg';
 //import imgprofile from '/imgprofile.png';
 
 const skillsData = [
@@ -12,6 +13,7 @@ const skillsData = [
     { id: 3, image: html, title: 'HTML', description: '' },
     { id: 4, image: css, title: 'CSS', description: '' },
     { id: 5, image: react, title: 'React', description: '' },
+    { id: 6, image: javascript, title: 'JavaScript', description: '' },
 
 ];
 

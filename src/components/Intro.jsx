@@ -51,7 +51,7 @@ function Intro() {
                         </a>
 
 
-                        <a href="https://github.com/MyaCodes1/myasportfolio" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/MyaCodes1" target="_blank" rel="noopener noreferrer">
                             <img src={github} alt="GitHub" className="w-11 h-11"></img>
                         </a>
 
